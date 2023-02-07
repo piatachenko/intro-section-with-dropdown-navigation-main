@@ -59,7 +59,7 @@ function App() {
   });
 
   return (
-    <div className="text-[#696969] bg-gradient-to-br from-[#f0f0f0] py-1 lg:px-5 lg:py-2 min-h-screen">
+    <div className="text-[#696969] bg-gradient-to-br from-[#fafafa] py-1 lg:px-5 lg:py-2 min-h-screen">
       <header className="flex justify-between items-center p-5 min-h-[5rem]">
         <nav className="flex items-center md:gap-8 lg:gap-16">
           <a href="#">
